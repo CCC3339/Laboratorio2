@@ -1,0 +1,47 @@
+/* CSS styles */
+h1 {
+    font-family: Impact, sans-serif;
+    color: blue;
+    }
+          
+    #titulo{
+      color: yellow;
+      border: 10px ridge green;
+      background: url(https://windowsden.uk/zoom/funny/elmo-zoom-background.jpg);
+      background-repeat: no repeat;
+      background-size: 100% 200%;
+      background-position: center center;
+    }
+    .aptitudes{
+      color: green;
+      border: 2px solid powderblue;
+      padding: 20px;
+      margin: 50px;
+      text-align: center;
+    }
+    #fotos{
+      height: 240px;
+      width:380px;
+    }
+    .muchotexto{
+      color: red;
+      text-decoration: overline;
+      letter-spacing: 10px;
+    }
+    #edu{
+      border: 15px blue;
+      border-style: dotted;
+      margin: 100px;
+      float:  right;
+    }
+    .final{
+      border: 30px orange;
+      border-style: solid;
+      border-width: thick;
+      font-weight: bolder;
+    }
+    #fineprint{
+      color: #f00; 
+      font-style: italic;
+      background: #00a3e8;
+    }
